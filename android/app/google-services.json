@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "61447531140",
+    "firebase_url": "https://plasma-fe15d.firebaseio.com",
+    "project_id": "plasma-fe15d",
+    "storage_bucket": "plasma-fe15d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61447531140:android:ff3e911813cdb6baa230d1",
+        "android_client_info": {
+          "package_name": "com.beta15.plasma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61447531140-3tptnsdgh78a9bqtatsqk2qtcuh0t3n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnPNyp60ZNN5HW-2vFV58wnw3KzmMAWow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61447531140-3tptnsdgh78a9bqtatsqk2qtcuh0t3n3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
